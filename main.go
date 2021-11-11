@@ -5,8 +5,8 @@ import (
 )
 
 func main() {
-	homework008.Test1()
-	homework008.Test2()
-	homework008.Test3()
-	homework008.Test4()
+	homework008.Task1()
+	homework008.Task2()
+	homework008.Task3()
+	homework008.Task4()
 }

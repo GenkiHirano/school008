@@ -4,8 +4,8 @@ import (
 	"fmt"
 )
 
-func Test4() {
+func Task4() {
 	fmt.Println("homework008_4")
-	bs := [5]string{"strikes", "balls", "balls", "strikes", "strikes"}
+	pitching := [5]string{"strike", "ball", "ball", "strike", "strike"}
 	// 問題4を実装してください。
 }

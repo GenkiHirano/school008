@@ -4,13 +4,13 @@ import (
 	"fmt"
 )
 
-func task4() {
+func typeJudgment(i interface{}) {
 	// switch文を使って、問題3を実装してください。
 }
 
-func Test3() {
+func Task3() {
 	fmt.Println("homework008_3")
-	task4(100)
-	task4("Hello, World!")
-	task4(true)
+	typeJudgment(100)
+	typeJudgment("Hello, World!")
+	typeJudgment(true)
 }
