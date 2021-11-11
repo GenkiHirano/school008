@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func task4(i interface{}) {
+func task4() {
 	// switch文を使って、応用問題3を実装してください。
 }
 
