@@ -1,3 +1,3 @@
-module github.com/GenkiHirano/school008.git
+module github.com/GenkiHirano/school008
 
 go 1.17
