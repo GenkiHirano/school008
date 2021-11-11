@@ -5,7 +5,7 @@ import (
 )
 
 func task4() {
-	// switch文を使って、応用問題3を実装してください。
+	// switch文を使って、問題3を実装してください。
 }
 
 func Test3() {
