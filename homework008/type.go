@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func typeJudgment(i interface{}) {
+func typeJudgment() {
 	// switch文を使って、問題3を実装してください。
 }
 

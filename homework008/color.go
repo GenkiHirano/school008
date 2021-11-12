@@ -6,7 +6,6 @@ import (
 
 func likeColor(s string) {
 	// if文を使って、問題1を実装してください。
-
 }
 
 func Task1() {
